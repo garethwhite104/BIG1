@@ -1,0 +1,1 @@
+//borfile0/WORK/BIGCOR/WEB/BIG1/.vercel/output/_functions/manifest_C5-Gv6Yj.mjs

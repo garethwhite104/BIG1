@@ -1,0 +1,1 @@
+//borfile0/WORK/BIGCOR/WEB/BIG1/.vercel/output/_functions/chunks/mdx-page_nKrZe8Jf.mjs
